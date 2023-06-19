@@ -1,0 +1,6 @@
+C:\Users\rutar\source\repos\PopBallGame\x64\Debug\PopBallGame.vcxproj.AssemblyReference.cache
+C:\Users\rutar\source\repos\PopBallGame\x64\Debug\PopBallGame.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\rutar\source\repos\PopBallGame\x64\Debug\PopBallGame.MainForm.resources
+C:\Users\rutar\source\repos\PopBallGame\x64\Debug\PopBallGame.Pictures.resources
+C:\Users\rutar\source\repos\PopBallGame\x64\Debug\PopBallGame.vcxproj.GenerateResource.cache
+C:\Users\rutar\source\repos\PopBallGame\x64\Debug\PopBallGame.exe

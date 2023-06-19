@@ -1,0 +1,255 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="MainForm.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Manager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Ball.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Explosion.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ExplosionFigure.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Mover.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PopObject.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Rect.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Rotator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Star.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Triangle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Pictures.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="House.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Zombie.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Hunter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Bullet.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Dead.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Weapon.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Creature.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="MainForm.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Manager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Ball.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Explosion.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ExplosionFigure.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Mover.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PopObject.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Rect.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Rotator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Star.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Triangle.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Pictures.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="House.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Zombie.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Hunter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Bullet.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Dead.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Weapon.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Creature.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Pictures.resx">
+      <Filter>Resource Files</Filter>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\..\..\OneDrive\Desktop\RTU\OOP\Lab_d\de5a39a18affc757dc694c2390b6ae3f1e1b1607d70b76c3b9850fafb48a12c7.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\OneDrive\Desktop\RTU\OOP\Lab_d\background.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\OneDrive\Desktop\RTU\OOP\Lab_d\building1.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\OneDrive\Desktop\RTU\OOP\Lab_d\building2.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\OneDrive\Desktop\RTU\OOP\Lab_d\building3.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\OneDrive\Desktop\RTU\OOP\Lab_d\hunter1.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\OneDrive\Desktop\RTU\OOP\Lab_d\hunter2.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\OneDrive\Desktop\RTU\OOP\Lab_d\hunter3.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\OneDrive\Desktop\RTU\OOP\Lab_d\zombie1.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\OneDrive\Desktop\RTU\OOP\Lab_d\zombie2.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\OneDrive\Desktop\RTU\OOP\Lab_d\zombie3.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\OneDrive\Desktop\RTU\OOP\Lab_d\zombie4.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\OneDrive\Desktop\RTU\OOP\Lab_d\zombie5.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\OneDrive\Desktop\RTU\OOP\Lab_d\zombie6.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\OneDrive\Desktop\RTU\OOP\Lab_d\zombie7.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\OneDrive\Desktop\RTU\OOP\Lab_d\zombie8.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\OneDrive\Desktop\RTU\OOP\Lab_d\rip.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\background.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\building1.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\building2.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\building3.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\hunter1.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\hunter2.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\hunter3.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\rip.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\zombie1.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\zombie5.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\zombie7.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\zombie8.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\zombie2.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\zombie3.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\zombie4.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\zombie6.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\soldier1.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="assets\soldier2.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="PopBallGame.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>

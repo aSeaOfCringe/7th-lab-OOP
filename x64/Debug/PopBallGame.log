@@ -1,0 +1,12 @@
+﻿  Weapon.cpp
+C:\Users\rutar\source\repos\PopBallGame\Weapon.cpp(11,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rutar\source\repos\PopBallGame\Weapon.cpp(17,34): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\rutar\source\repos\PopBallGame\Weapon.cpp(17,14): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\rutar\source\repos\PopBallGame\Weapon.cpp(18,39): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\rutar\source\repos\PopBallGame\Weapon.cpp(18,14): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\rutar\source\repos\PopBallGame\Weapon.cpp(19,55): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\rutar\source\repos\PopBallGame\Weapon.cpp(19,14): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\rutar\source\repos\PopBallGame\Weapon.cpp(20,50): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\rutar\source\repos\PopBallGame\Weapon.cpp(20,14): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Ball.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  PopBallGame.vcxproj -> C:\Users\rutar\source\repos\PopBallGame\x64\Debug\PopBallGame.exe
